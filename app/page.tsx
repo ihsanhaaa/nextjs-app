@@ -7,7 +7,7 @@ export default function Home() {
       <h1>Halaman Index</h1>
 
       <Link href="/about">Halaman About</Link> <br />
-      <a href="/posts">Halaman Post</a>
+      <Link href="/posts">Halaman Post</Link>
     </>
   );
 }
